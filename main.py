@@ -1,9 +1,8 @@
-import spotify
+import menu
 
 
 def main():
-    spotify.get_top_tracks()
-    spotify.get_top_artists()
+    menu.main()
 
 
 main()
